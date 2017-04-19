@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MapLevel.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AdsControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GenericSingletonClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleMobileAds\Api\AdSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UiGamePlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoxControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SphereControl.cs" Line="1" Column="1" />
+      <File FileName="e:\Temp\Unity\Tricky Shot\Tricky Shot\Assets\Scripts\ShopManager.cs" Line="42" Column="3" />
+      <File FileName="Assets\Scripts\Home.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MapLevel.cs" Line="38" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
